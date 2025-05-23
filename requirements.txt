@@ -9,3 +9,6 @@ huggingface-hub
 langchain
 faiss-cpu
 google-generativeai
+langchain-community
+sentence-transformers
+openpyxl
