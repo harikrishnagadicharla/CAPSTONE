@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+pytesseract
+pandas
+requests
+beautifulsoup4
+fpdf
+huggingface-hub
+langchain
+faiss-cpu
+google-generativeai
